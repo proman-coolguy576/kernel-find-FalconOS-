@@ -1,2 +1,5 @@
-u can view my os code by https://github.com/proman-coolguy576/Falcon-OS  and you will visit my kernel code repo 
-it is under licence of GNU v2
+FalconOS source code: https://github.com/proman-coolguy576/Falcon-OS
+
+The main repository contains the operating system, kernel source, build instructions, and documentation.
+
+License information is available in the main FalconOS repository.
